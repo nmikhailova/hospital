@@ -1,0 +1,14 @@
+#main {margin:0 auto; width:780px;}
+
+#header {height:403px}
+
+.col_1, .col_2, .col_3{ float:left;}
+
+/*======= index.html =======*/
+#page1 #content .row_1 .col_1 {width:217px;}
+#page1 #content .row_1 .col_2 {width:346px;}
+#page1 #content .row_1 .col_3 {width:217px;}
+#page1 #content .row_2 .col_1 {width:217px; background:url(images/line1.gif) left top repeat-x;}
+#page1 #content .row_2 .col_2 {width:346px; background:url(images/line2.gif) left top repeat-x;}
+#page1 #content .row_2 .col_3 {width:217px; background:url(images/line1.gif) left top repeat-x;}
+
